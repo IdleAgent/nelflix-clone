@@ -19,4 +19,4 @@ Modern responsive design techniques
 
 Clean, reusable CSS styling
 
-🚀 Live Demo:https://idleagent.github.io/Netflix-Clone/
+🚀 Live Demo:https://nelflix-clone-git-main-preet-deshbhratars-projects.vercel.app/
